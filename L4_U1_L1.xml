@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson type="standard" narrationFile="L4_U1_1">
+  <page file="L4_U1_1(1)@2x.png" delay="0" />
+  <page file="L4_U1_1(2)@2x.png" delay="22">
+    <lesson type="standard" narrationFile="L4_U1_2">
+      <page file="L4_U1_2(0)@2x.png" delay="0" />
+      <page file="L4_U1_2(1)@2x.png" delay="6">
+        <lesson type="standard" narrationFile="L4_U1_3">
+          <page file="L4_U1_3(0)@2x.png" delay="0" />
+          <page file="L4_U1_3(1)@2x.png" delay="4" />
+          <page file="L4_U1_3(2)@2x.png" delay="5" />
+          <page file="L4_U1_3(3)@2x.png" delay="6" />
+          <page file="L4_U1_3(4)@2x.png" delay="7" />
+          <page file="L4_U1_3(5)@2x.png" delay="9" />
+          <page file="L4_U1_3(6)@2x.png" delay="12" />
+        </lesson>
+      </page>
+    </lesson>
+  </page>
+</lesson>

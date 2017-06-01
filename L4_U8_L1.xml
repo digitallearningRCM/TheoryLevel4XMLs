@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lesson type="standard" narrationFile="L4_U8_1">
+  <page file="L4_U8_1(1)@2x.png" delay="0" />
+  <page file="L4_U8_1(2)@2x.png" delay="12" />
+  <page file="L4_U8_1(3)@2x.png" delay="14">
+    <lesson type="standard" narrationFile="L4_U8_2">
+      <page file="L4_U8_2@2x.png" delay="0">
+        <lesson type="standard" narrationFile="L4_U8_3">
+          <page file="L4_U8_3(1)@2x.png" delay="0" />
+          <page file="L4_U8_3(2)@2x.png" delay="9" />
+          <page file="L4_U8_3(3)@2x.png" delay="20" />
+          <page file="L4_U8_3(4)@2x.png" delay="21" />
+          <page file="L4_U8_3(5)@2x.png" delay="22" />
+          <page file="L4_U8_3(6)@2x.png" delay="27">
+            <lesson type="MCQ" narrationFile="L4_U8_4">
+              <page>
+                <question image="L4_U8_4(1)Q_G@2x.png">
+                  <option image="L4_U8_4(1)-A1_G@2x.png" answer="correct" />
+                  <option image="L4_U8_4(1)-A2_G@2x.png" answer="false" />
+                  <option image="L4_U8_4(1)-A3_G@2x.png" answer="false">
+                    <lesson type="standard" narrationFile="L4_U8_5">
+                      <page file="L4_U8_5@2x.png" delay="0">
+                        <lesson type="standard" narrationFile="L4_U8_6">
+                          <page file="L4_U8_6@2x.png" delay="0">
+                            <lesson type="standard" narrationFile="L4_U8_7">
+                              <page file="L4_U8_7(1)@2x.png" delay="0" />
+                              <page file="L4_U8_7(2)@2x.png" delay="12" />
+                              <page file="L4_U8_7(3)@2x.png" delay="16" />
+                              <page file="L4_U8_7(4)@2x.png" delay="17" />
+                              <page file="L4_U8_7(5)@2x.png" delay="19">
+                                <lesson type="standard" narrationFile="L4_U8_8">
+                                  <page file="L4_U8_8(1)@2x.png" delay="0" />
+                                  <page file="L4_U8_8(2)@2x.png" delay="3" />
+                                  <page file="L4_U8_8(3)@2x.png" delay="4" />
+                                  <page file="L4_U8_8(4)@2x.png" delay="5" />
+                                  <page file="L4_U8_8(5)@2x.png" delay="9">
+                                    <lesson type="MCQ" narrationFile="L4_U8_9">
+                                      <page>
+                                        <question image="L4_U8_4(1)Q_G@2x.png">
+                                          <option image="L4_U8_4(1)-A1_G@2x.png" answer="correct" />
+                                          <option image="L4_U8_4(1)-A2_G@2x.png" answer="false" />
+                                          <option image="L4_U8_4(1)-A3_G@2x.png" answer="false" />
+                                        </question>
+                                        <lesson type="standard" narrationFile="L4_U8_10">
+                                          <page file="L4_U8_10(1)@2x.png" delay="0" />
+                                          <page file="L4_U8_10(2)@2x.png" delay="17" />
+                                          <page file="L4_U8_10(2a)@2x.png" delay="20" />
+                                          <page file="L4_U8_10(2b)@2x.png" delay="24">
+                                            <lesson type="standard" narrationFile="L4_U8_11">
+                                              <page file="L4_U8_11(1)@2x.png" delay="0" />
+                                              <page file="L4_U8_11(2)@2x.png" delay="2" />
+                                              <page file="L4_U8_11(3)@2x.png" delay="4" />
+                                              <page file="L4_U8_11(4)@2x.png" delay="9" />
+                                              <page file="L4_U8_11(5)@2x.png" delay="11" />
+                                              <page file="L4_U8_11(6)@2x.png" delay="13" />
+                                              <page file="L4_U8_11(7)@2x.png" delay="21" />
+                                              <page file="L4_U8_11(8)@2x.png" delay="27">
+                                                <lesson type="MCQ" narrationFile="L4_U8_12">
+                                                  <page>
+                                                    <question image="L4_U8_12(1)Q_G@2x.png">
+                                                      <option image="L4_U8_12(1)-A1_G@2x.png" answer="correct" />
+                                                      <option image="L4_U8_12(1)-A2_G@2x.png" answer="false" />
+                                                      <option image="L4_U8_12(1)-A3_G@2x.png" answer="false" />
+                                                    </question>
+                                                  </page>
+                                                </lesson>
+                                              </page>
+                                            </lesson>
+                                          </page>
+                                        </lesson>
+                                      </page>
+                                    </lesson>
+                                  </page>
+                                </lesson>
+                              </page>
+                            </lesson>
+                          </page>
+                        </lesson>
+                      </page>
+                    </lesson>
+                  </option>
+                </question>
+              </page>
+            </lesson>
+          </page>
+        </lesson>
+      </page>
+    </lesson>
+  </page>
+</lesson>
