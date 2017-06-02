@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L4_U3_B2">
-	<lesson type="standard" narrationFile="L4_U3_4">
-		<page file="L4_U3_4" delay="0"></page>
-	</lesson>
-	<lesson type="standard" narrationFile="L4_U3_5">
-		<page file="L4_U3_5" delay="0" ></page>
-	</lesson>
+  <lesson type="standard" narrationFile="L4_U3_4">
+    <page file="L4_U3_4" delay="0"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L4_U3_5">
+    <page file="L4_U3_5" delay="0"></page>
+  </lesson>
 </lessons>

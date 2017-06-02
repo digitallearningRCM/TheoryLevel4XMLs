@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L4_U3_B1">
-	<lesson type="standard" narrationFile="L4_U3_1">
-		<page file="L4_U3_1(0)" delay="0" />
-		<page file="L4_U3_1(1)" delay="5" />
-		<page file="L4_U3_1(2)" delay="8" />
-		<page file="L4_U3_1(3)" delay="16" />
-		<page file="L4_U3_1(4)" delay="20" />
-		<page file="L4_U3_1(5)" delay="23" />
-		<page file="L4_U3_1(6)" delay="32" />
-		<page file="L4_U3_1(7)" delay="42"></page>
-	</lesson>
-	<lesson type="standard" narrationFile="L4_U3_2">
-		<page file="L4_U3_2(0)" delay="0" />
-		<page file="L4_U3_2(1)" delay="6" />
-		<page file="L4_U3_2(2)" delay="9" />
-		<page file="L4_U3_2(3)" delay="12" />
-		<page file="L4_U3_2(4)" delay="16" />
-		<page file="L4_U3_2(5)" delay="19" />
-		<page file="L4_U3_2(6)" delay="22" />
-		<page file="L4_U3_2(7)" delay="25"></page>
-	</lesson>
-	<lesson type="standard" narrationFile="L4_U3_3">
-		<page file="L4_U3_3(0)" delay="0" />
-		<page file="L4_U3_3(1)" delay="9" />
-		<page file="L4_U3_3(2)" delay="17"></page>
-	</lesson>
+  <lesson type="standard" narrationFile="L4_U3_1">
+    <page file="L4_U3_1(0)" delay="0" />
+    <page file="L4_U3_1(1)" delay="5" />
+    <page file="L4_U3_1(2)" delay="8" />
+    <page file="L4_U3_1(3)" delay="16" />
+    <page file="L4_U3_1(4)" delay="20" />
+    <page file="L4_U3_1(5)" delay="23" />
+    <page file="L4_U3_1(6)" delay="32" />
+    <page file="L4_U3_1(7)" delay="42"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L4_U3_2">
+    <page file="L4_U3_2(0)" delay="0" />
+    <page file="L4_U3_2(1)" delay="6" />
+    <page file="L4_U3_2(2)" delay="9" />
+    <page file="L4_U3_2(3)" delay="12" />
+    <page file="L4_U3_2(4)" delay="16" />
+    <page file="L4_U3_2(5)" delay="19" />
+    <page file="L4_U3_2(6)" delay="22" />
+    <page file="L4_U3_2(7)" delay="25"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L4_U3_3">
+    <page file="L4_U3_3(0)" delay="0" />
+    <page file="L4_U3_3(1)" delay="9" />
+    <page file="L4_U3_3(2)" delay="17"></page>
+  </lesson>
 </lessons>

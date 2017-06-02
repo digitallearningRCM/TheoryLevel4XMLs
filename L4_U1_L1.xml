@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L4_U1_B1">
-	<lesson type="standard" narrationFile="L4_U1_1">
-		<page file="L4_U1_1(1)" delay="0" />
-		<page file="L4_U1_1(2)" delay="22"></page>
-	</lesson>
-    <lesson type="standard" narrationFile="L4_U1_2">
-		<page file="L4_U1_2(0)" delay="0" />
-		<page file="L4_U1_2(1)" delay="6"> </page>
-	</lesson>
-    <lesson type="standard" narrationFile="L4_U1_3">
-          <page file="L4_U1_3(0)" delay="0" />
-          <page file="L4_U1_3(1)" delay="4" />
-          <page file="L4_U1_3(2)" delay="5" />
-          <page file="L4_U1_3(3)" delay="6" />
-          <page file="L4_U1_3(4)" delay="7" />
-          <page file="L4_U1_3(5)" delay="9" />
-          <page file="L4_U1_3(6)" delay="12" ></page>
-        </lesson>
+  <lesson type="standard" narrationFile="L4_U1_1">
+    <page file="L4_U1_1(1)" delay="0" />
+    <page file="L4_U1_1(2)" delay="22"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L4_U1_2">
+    <page file="L4_U1_2(0)" delay="0" />
+    <page file="L4_U1_2(1)" delay="6"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L4_U1_3">
+    <page file="L4_U1_3(0)" delay="0" />
+    <page file="L4_U1_3(1)" delay="4" />
+    <page file="L4_U1_3(2)" delay="5" />
+    <page file="L4_U1_3(3)" delay="6" />
+    <page file="L4_U1_3(4)" delay="7" />
+    <page file="L4_U1_3(5)" delay="9" />
+    <page file="L4_U1_3(6)" delay="12"></page>
+  </lesson>
 </lessons>

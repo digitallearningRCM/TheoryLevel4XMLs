@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <lessons banner="L4_U3_B3">
-	<lesson type="standard" narrationFile="L4_U3_6">
-		<page file="L4_U3_6(1)" delay="0" />
-		<page file="L4_U3_6(2)" delay="6" />
-		<page file="L4_U3_6(3)" delay="12" />
-		<page file="L4_U3_6(4)" delay="19"></page>
-	</lesson>
-	<lesson type="standard" narrationFile="L4_U3_7">
-		<page file="L4_U3_7" delay="0"></page>
-	</lesson>
+  <lesson type="standard" narrationFile="L4_U3_6">
+    <page file="L4_U3_6(1)" delay="0" />
+    <page file="L4_U3_6(2)" delay="6" />
+    <page file="L4_U3_6(3)" delay="12" />
+    <page file="L4_U3_6(4)" delay="19"></page>
+  </lesson>
+  <lesson type="standard" narrationFile="L4_U3_7">
+    <page file="L4_U3_7" delay="0"></page>
+  </lesson>
 </lessons>
