@@ -1,20 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<lesson type="standard" narrationFile="L4_U6_11">
-  <page file="L4_U6_11@2x.png" delay="0">
-    <lesson type="standard" narrationFile="L4_U6_12">
-      <page file="L4_U6_12@2x.png" delay="0">
-        <lesson type="standard" narrationFile="L4_U6_13">
-          <page file="L4_U6_13@2x.png" delay="0">
-            <lesson type="standard" narrationFile="L4_U6_14">
-              <page file="L4_U6_14@2x.png" delay="0">
-                <lesson type="standard" narrationFile="L4_U6_15">
-                  <page file="L4_U6_15@2x.png" delay="0" />
-                </lesson>
-              </page>
-            </lesson>
-          </page>
-        </lesson>
-      </page>
-    </lesson>
-  </page>
-</lesson>
+<lessons banner="L4_U6_B3">
+	<lesson type="standard" narrationFile="L4_U6_11">
+		<page file="L4_U6_11" delay="0"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U6_12">
+		<page file="L4_U6_12" delay="0"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U6_13">
+		<page file="L4_U6_13" delay="0"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U6_14">
+		<page file="L4_U6_14" delay="0"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U6_15">
+	<page file="L4_U6_15" delay="0"></page>
+	</lesson>
+</lessons>

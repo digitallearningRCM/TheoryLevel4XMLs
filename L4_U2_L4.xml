@@ -1,145 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<lesson type="standard" narrationFile="L4_U2_11">
-  <page file="L4_U2_11@2x.png" delay="0">
-    <lesson type="standard" narrationFile="L4_U2_12">
-      <page file="L4_U2_12@2x.png" delay="0">
-        <page file="L4_U2_12(1)@2x.png" delay="6">
-          <page file="L4_U2_12(2)@2x.png" delay="11">
-            <lesson type="standard" narrationFile="L4_U2_13">
-              <page file="L4_U2_13(0)@2x.png" delay="0" />
-              <page file="L4_U2_13(1)@2x.png" delay="8" />
-              <page file="L4_U2_13(2)@2x.png" delay="14" />
-              <page file="L4_U2_13(3)@2x.png" delay="18">
-                <lesson type="standard" narrationFile="L4_U2_14">
-                  <page file="L4_U2_14(0)@2x.png" delay="0" />
-                  <page file="L4_U2_14(1a)@2x.png" delay="4" />
-                  <page file="L4_U2_14(1b)@2x.png" delay="9" />
-                  <page file="L4_U2_14(2a)@2x.png" delay="13" />
-                  <page file="L4_U2_14(2b)@2x.png" delay="21" />
-                  <page file="L4_U2_14(3a)@2x.png" delay="23" />
-                  <page file="L4_U2_14(3b)@2x.png" delay="29" />
-                  <page file="L4_U2_14(3c)@2x.png" delay="34" />
-                  <page file="L4_U2_14(3d)@2x.png" delay="38">
-                    <lesson type="standard" narrationFile="L4_U2_15">
-                      <page file="L4_U2_15(0)@2x.png" delay="0" />
-                      <page file="L4_U2_15(1a)@2x.png" delay="3" />
-                      <page file="L4_U2_15(1b)@2x.png" delay="9" />
-                      <page file="L4_U2_15(2a)@2x.png" delay="13" />
-                      <page file="L4_U2_15(2b)@2x.png" delay="19" />
-                      <page file="L4_U2_15(3a)@2x.png" delay="25" />
-                      <page file="L4_U2_15(3b)@2x.png" delay="30" />
-                      <page file="L4_U2_15(3c)@2x.png" delay="35" />
-                      <page file="L4_U2_15(3d)@2x.png" delay="42">
-                        <lesson type="standard" narrationFile="L4_U2_16">
-                          <page file="L4_U2_16(0)@2x.png" delay="0" />
-                          <page file="L4_U2_16(1)@2x.png" delay="7">
-                            <lesson type="standard" narrationFile="L4_U2_17">
-                              <page file="L4_U2_17(0)@2x.png" delay="0" />
-                              <page file="L4_U2_17(1a)@2x.png" delay="17" />
-                              <page file="L4_U2_17(1b)@2x.png" delay="20" />
-                              <page file="L4_U2_17(2)@2x.png" delay="22" />
-                              <page file="L4_U2_17(3)@2x.png" delay="36" />
-                              <page file="L4_U2_17(3b)@2x.png" delay="39"></page>
-                            </lesson>
-                          </page>
-                        </lesson>
-                      </page>
-                    </lesson>
-                  </page>
-                </lesson>
-              </page>
-            </lesson>
-          </page>
-          <lesson type="standard" narrationFile="L4_U2_13">
-            <page file="L4_U2_13(0)@2x.png" delay="0" />
-            <page file="L4_U2_13(1)@2x.png" delay="8" />
-            <page file="L4_U2_13(2)@2x.png" delay="14" />
-            <page file="L4_U2_13(3)@2x.png" delay="18">
-              <lesson type="standard" narrationFile="L4_U2_14">
-                <page file="L4_U2_14(0)@2x.png" delay="0" />
-                <page file="L4_U2_14(1a)@2x.png" delay="4" />
-                <page file="L4_U2_14(1b)@2x.png" delay="9" />
-                <page file="L4_U2_14(2a)@2x.png" delay="13" />
-                <page file="L4_U2_14(2b)@2x.png" delay="21" />
-                <page file="L4_U2_14(3a)@2x.png" delay="23" />
-                <page file="L4_U2_14(3b)@2x.png" delay="29" />
-                <page file="L4_U2_14(3c)@2x.png" delay="34" />
-                <page file="L4_U2_14(3d)@2x.png" delay="38">
-                  <lesson type="standard" narrationFile="L4_U2_15">
-                    <page file="L4_U2_15(0)@2x.png" delay="0" />
-                    <page file="L4_U2_15(1a)@2x.png" delay="3" />
-                    <page file="L4_U2_15(1b)@2x.png" delay="9" />
-                    <page file="L4_U2_15(2a)@2x.png" delay="13" />
-                    <page file="L4_U2_15(2b)@2x.png" delay="19" />
-                    <page file="L4_U2_15(3a)@2x.png" delay="25" />
-                    <page file="L4_U2_15(3b)@2x.png" delay="30" />
-                    <page file="L4_U2_15(3c)@2x.png" delay="35" />
-                    <page file="L4_U2_15(3d)@2x.png" delay="42">
-                      <lesson type="standard" narrationFile="L4_U2_16">
-                        <page file="L4_U2_16(0)@2x.png" delay="0" />
-                        <page file="L4_U2_16(1)@2x.png" delay="7">
-                          <lesson type="standard" narrationFile="L4_U2_17">
-                            <page file="L4_U2_17(0)@2x.png" delay="0" />
-                            <page file="L4_U2_17(1a)@2x.png" delay="17" />
-                            <page file="L4_U2_17(1b)@2x.png" delay="20" />
-                            <page file="L4_U2_17(2)@2x.png" delay="22" />
-                            <page file="L4_U2_17(3)@2x.png" delay="36" />
-                            <page file="L4_U2_17(3b)@2x.png" delay="39"></page>
-                          </lesson>
-                        </page>
-                      </lesson>
-                    </page>
-                  </lesson>
-                </page>
-              </lesson>
-            </page>
-          </lesson>
-        </page>
-        <lesson type="standard" narrationFile="L4_U2_13">
-          <page file="L4_U2_13(0)@2x.png" delay="0" />
-          <page file="L4_U2_13(1)@2x.png" delay="8" />
-          <page file="L4_U2_13(2)@2x.png" delay="14" />
-          <page file="L4_U2_13(3)@2x.png" delay="18">
-            <lesson type="standard" narrationFile="L4_U2_14">
-              <page file="L4_U2_14(0)@2x.png" delay="0" />
-              <page file="L4_U2_14(1a)@2x.png" delay="4" />
-              <page file="L4_U2_14(1b)@2x.png" delay="9" />
-              <page file="L4_U2_14(2a)@2x.png" delay="13" />
-              <page file="L4_U2_14(2b)@2x.png" delay="21" />
-              <page file="L4_U2_14(3a)@2x.png" delay="23" />
-              <page file="L4_U2_14(3b)@2x.png" delay="29" />
-              <page file="L4_U2_14(3c)@2x.png" delay="34" />
-              <page file="L4_U2_14(3d)@2x.png" delay="38">
-                <lesson type="standard" narrationFile="L4_U2_15">
-                  <page file="L4_U2_15(0)@2x.png" delay="0" />
-                  <page file="L4_U2_15(1a)@2x.png" delay="3" />
-                  <page file="L4_U2_15(1b)@2x.png" delay="9" />
-                  <page file="L4_U2_15(2a)@2x.png" delay="13" />
-                  <page file="L4_U2_15(2b)@2x.png" delay="19" />
-                  <page file="L4_U2_15(3a)@2x.png" delay="25" />
-                  <page file="L4_U2_15(3b)@2x.png" delay="30" />
-                  <page file="L4_U2_15(3c)@2x.png" delay="35" />
-                  <page file="L4_U2_15(3d)@2x.png" delay="42">
-                    <lesson type="standard" narrationFile="L4_U2_16">
-                      <page file="L4_U2_16(0)@2x.png" delay="0" />
-                      <page file="L4_U2_16(1)@2x.png" delay="7">
-                        <lesson type="standard" narrationFile="L4_U2_17">
-                          <page file="L4_U2_17(0)@2x.png" delay="0" />
-                          <page file="L4_U2_17(1a)@2x.png" delay="17" />
-                          <page file="L4_U2_17(1b)@2x.png" delay="20" />
-                          <page file="L4_U2_17(2)@2x.png" delay="22" />
-                          <page file="L4_U2_17(3)@2x.png" delay="36" />
-                          <page file="L4_U2_17(3b)@2x.png" delay="39"></page>
-                        </lesson>
-                      </page>
-                    </lesson>
-                  </page>
-                </lesson>
-              </page>
-            </lesson>
-          </page>
-        </lesson>
-      </page>
-    </lesson>
-  </page>
-</lesson>
+<lessons banner="L4_U2_B4">
+	<lesson type="standard" narrationFile="L4_U2_11">
+		<page file="L4_U2_11" delay="0"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U2_12">
+		<page file="L4_U2_12" delay="0"/>
+		<page file="L4_U2_12(1)" delay="6"/>
+		<page file="L4_U2_12(2)" delay="11"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U2_13">
+		<page file="L4_U2_13(0)" delay="0" />
+		<page file="L4_U2_13(1)" delay="8" />
+		<page file="L4_U2_13(2)" delay="14" />
+		<page file="L4_U2_13(3)" delay="18"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U2_14">
+		<page file="L4_U2_14(0)" delay="0" />
+		<page file="L4_U2_14(1a)" delay="4" />
+		<page file="L4_U2_14(1b)" delay="9" />
+		<page file="L4_U2_14(2a)" delay="13" />
+		<page file="L4_U2_14(2b)" delay="21" />
+		<page file="L4_U2_14(3a)" delay="23" />
+		<page file="L4_U2_14(3b)" delay="29" />
+		<page file="L4_U2_14(3c)" delay="34" />
+		<page file="L4_U2_14(3d)" delay="38"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U2_15">
+		<page file="L4_U2_15(0)" delay="0" />
+		<page file="L4_U2_15(1a)" delay="3" />
+		<page file="L4_U2_15(1b)" delay="9" />
+		<page file="L4_U2_15(2a)" delay="13" />
+		<page file="L4_U2_15(2b)" delay="19" />
+		<page file="L4_U2_15(3a)" delay="25" />
+		<page file="L4_U2_15(3b)" delay="30" />
+		<page file="L4_U2_15(3c)" delay="35" />
+		<page file="L4_U2_15(3d)" delay="42"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U2_16">
+		<page file="L4_U2_16(0)" delay="0" />
+		<page file="L4_U2_16(1)" delay="7"></page>
+	</lesson>
+	<lesson type="standard" narrationFile="L4_U2_17">
+		<page file="L4_U2_17(0)" delay="0" />
+		<page file="L4_U2_17(1a)" delay="17" />
+		<page file="L4_U2_17(1b)" delay="20" />
+		<page file="L4_U2_17(2)" delay="22" />
+		<page file="L4_U2_17(3)" delay="36" />
+		<page file="L4_U2_17(3b)" delay="39"></page>
+	</lesson>
+</lessons>

@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<lesson type="standard" narrationFile="L4_U4_1">
-  <page file="L4_U4_1(1)@2x.png" delay="0" />
-  <page file="L4_U4_1(2)@2x.png" delay="12">
-    <lesson type="standard" narrationFile="L4_U4_2">
-      <page file="L4_U4_2(1)@2x.png" delay="0" />
-      <page file="L4_U4_2(2)@2x.png" delay="25" />
-    </lesson>
-  </page>
-</lesson>
+<lessons banner="L4_U4_B1">
+	<lesson type="standard" narrationFile="L4_U4_1">
+		<page file="L4_U4_1(1)" delay="0" />
+		<page file="L4_U4_1(2)" delay="12"></page>
+	<lesson type="standard" narrationFile="L4_U4_2">
+		<page file="L4_U4_2(1)" delay="0" />
+		<page file="L4_U4_2(2)" delay="25" ></page>
+	</lesson>
+</lessons>
