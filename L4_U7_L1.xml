@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card graphic="T1_U7_2(1)" definition="fast"></card>
+  <card graphic="T1_U7_2(2)" definition="moderately slow; at a walking pace"></card>
+  <card graphic="T1_U7_2(3)" definition="slow"></card>
+  <card graphic="T1_U7_2(4)" definition="at a moderate tempo"></card>
+  <card graphic="T1_U7_2(5)" definition="smooth"></card>
+  <card graphic="T1_U7_3(1)" definition="slowing down gradually"></card>
+  <card graphic="T1_U7_3(3)" definition="return to the original tempo"></card>
+  <card graphic="T1_U7_4-5(1)" definition="indicates the end of a piece"></card>
+  <card graphic="T1_U7_4-5(2)" definition="a symbol for 4/4"></card>
+  <card graphic="T1_U7_4-5(3)" definition="hold the note or rest longer than its written value"></card>
+  <card graphic="T1_U7_6-7(1)" definition="a stressed note"></card>
+  <card graphic="T1_U7_6-7(2)" definition="detached"></card>
+  <card graphic="T1_U7_6-7(3)" definition="hold for the combined value of the tied notes"></card>
+  <card graphic="T1_U7_6-7(4)" definition="play the notes smoothly"></card>
+  <card graphic="T1_U7_8-9(1)" definition="becoming louder"></card>
+  <card graphic="T1_U7_8-9(2)" definition="becoming softer"></card>
+  <card graphic="T1_U7_10-11(1)" definition="loud"></card>
+  <card graphic="T1_U7_10-11(2)" definition="moderatly loud"></card>
+  <card graphic="T1_U7_10-11(3)" definition="soft"></card>
+  <card graphic="T1_U7_10-11(4)" definition="moderatley soft"></card>
+  <card graphic="T1_U7_3(2)" definition="speed at which music is performed"></card>
+  <card graphic="T2_U7_2(1)" definition="fairly fast (a little slower than allegro)"></card>
+  <card graphic="T2_U7_2(2)" definition="much, very"></card>
+  <card graphic="T2_U7_2(3)" definition="little"></card>
+  <card graphic="T2_U7_2(4)" definition="very fast"></card>
+  <card graphic="T2_U7_2(5)" definition="slowing down"></card>
+  <card graphic="T2_U7_3(1)" definition="repeat from the beginning and end at Fine"></card>
+  <card graphic="T2_U7_3(2)" definition="from the beginning"></card>
+  <card graphic="T2_U7_3(3)" definition="the end"></card>
+  <card graphic="T2_U7_4(1)" definition="repeat sign"></card>
+  <card graphic="T2_U7_4(2)" definition="tenuto"></card>
+  <card graphic="T2_U7_4(3)" definition="very loud"></card>
+  <card graphic="T2_U7_4(4)" definition="very soft"></card>
+  <card graphic="T2_U7_4(5)" definition="pedal marking"></card>
+  <card graphic="T3_U7_2(1)" definition="in a singing style"></card>
+  <card graphic="T3_U7_2(2)" definition="sweet, gentle"></card>
+  <card graphic="T3_U7_2(3)" definition="graceful"></card>
+  <card graphic="T3_U7_2(4)" definition="magestic"></card>
+  <card graphic="T3_U7_2(5)" definition="marked or stressed"></card>
+  <card graphic="T3_U7_3(1)" definition="from the sign"></card>
+  <card graphic="T3_U7_3(2)" definition="the interval of an octave"></card>
+  <card graphic="T3_U7_4(2)" definition="play one octave above written pitch"></card>
+  <card graphic="T3_U7_4(3)" definition="play one octave below written pitch"></card>
+  <card graphic="T4_U7_2(1)" definition="becoming quicker"></card>
+  <card graphic="T4_U7_2(2)" definition="slow"></card>
+  <card graphic="T4_U7_2(3)" definition="lively, brisk"></card>
+  <card graphic="T4_U7_2(4)" definition="as fast as possible"></card>
+  <card graphic="T4_U7_3(1)" definition="right hand"></card>
+  <card graphic="T4_U7_3(2)" definition="left hand"></card>
+  <card graphic="T4_U7_3(3)" definition="return to the original tempo"></card>
+  <card graphic="T4_U7_4(1)" definition="on a bowed string instrument, play the note while drawing the bow upward"></card>
+  <card graphic="T4_U7_4(3)" definition="take a breath, and/or slight pause or lift"></card>
+  <card graphic="T4_U7_5(4)" definition="on a bowed string instrument, play the note while drawing the bow downward"></card>
+</cards>
