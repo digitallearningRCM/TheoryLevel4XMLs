@@ -11,10 +11,10 @@
   <lesson type="standard" narrationFile="L4_U1_3">
     <page file="L4_U1_3(0)" delay="0" />
     <page file="L4_U1_3(1)" delay="4" />
-    <page file="L4_U1_3(2)" delay="5" />
-    <page file="L4_U1_3(3)" delay="6" />
-    <page file="L4_U1_3(4)" delay="7" />
-    <page file="L4_U1_3(5)" delay="9" />
+    <page file="L4_U1_3(2)" delay="6" />
+    <page file="L4_U1_3(3)" delay="7" />
+    <page file="L4_U1_3(4)" delay="8" />
+    <page file="L4_U1_3(5)" delay="10" />
       <page file="L4_U1_3(5)" delay="12" />
    </page>
   </lesson>
