@@ -15,6 +15,7 @@
     <page file="L4_U1_3(3)" delay="6" />
     <page file="L4_U1_3(4)" delay="7" />
     <page file="L4_U1_3(5)" delay="9" />
+      <page file="L4_U1_3(5)" delay="12" />
    </page>
   </lesson>
 </lessons>
