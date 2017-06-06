@@ -6,7 +6,7 @@
     <page file="L4_U8_1(3)" delay="14"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U8_2">
-    <page file="L4_U8_2" delay="0"></page>
+    <page file="L4_U8_2(1)" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U8_3">
     <page file="L4_U8_3(1)" delay="0" />
