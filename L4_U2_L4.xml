@@ -4,7 +4,7 @@
     <page file="L4_U2_11" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U2_12">
-    <page file="L4_U2_12" delay="0" />
+    <page file="L4_U2_12(0)" delay="0" />
     <page file="L4_U2_12(1)" delay="6" />
     <page file="L4_U2_12(2)" delay="11"></page>
   </lesson>
