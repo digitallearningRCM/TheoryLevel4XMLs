@@ -43,7 +43,7 @@
   </lesson>
   <lesson type="standard" narrationFile="L4_U8_7">
     <page file="L4_U8_7(1)" delay="0" />
-    <page file="L4_U8_7(2)" delay="17" />
+    <page file="L4_U8_7(2)" delay="16" />
     <page file="L4_U8_7(2a)" delay="20" />
     <page file="L4_U8_7(2b)" delay="24"></page>
   </lesson>
