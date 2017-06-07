@@ -4,15 +4,15 @@
     <page file="L4_U6_11" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_12">
-    <page file="L4_U6_12" delay="2"></page>
+    <page file="L4_U6_12" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_13">
-    <page file="L4_U6_13" delay="4"></page>
+    <page file="L4_U6_13" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_14">
-    <page file="L4_U6_14" delay="6"></page>
+    <page file="L4_U6_14" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_15">
-    <page file="L4_U6_15" delay="8"></page>
+    <page file="L4_U6_15" delay="0"></page>
   </lesson>
 </lessons>
