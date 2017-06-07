@@ -8,9 +8,9 @@
     </page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_9">
-    <page file="L4_U6_9" delay="1"></page>
+    <page file="L4_U6_9" delay="0"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_10">
-    <page file="L4_U6_10" delay="1"></page>
+    <page file="L4_U6_10" delay="0"></page>
   </lesson>
 </lessons>
