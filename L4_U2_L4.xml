@@ -17,13 +17,13 @@
   <lesson type="standard" narrationFile="L4_U2_14">
     <page file="L4_U2_14(0)" delay="0" />
     <page file="L4_U2_14(1a)" delay="4" />
-    <page file="L4_U2_14(1b)" delay="9" />
-    <page file="L4_U2_14(2a)" delay="13" />
-    <page file="L4_U2_14(2b)" delay="21" />
-    <page file="L4_U2_14(3a)" delay="23" />
-    <page file="L4_U2_14(3b)" delay="29" />
-    <page file="L4_U2_14(3c)" delay="34" />
-    <page file="L4_U2_14(3d)" delay="38"></page>
+    <page file="L4_U2_14(1b)" delay="12" />
+    <page file="L4_U2_14(2a)" delay="14" />
+    <page file="L4_U2_14(2b)" delay="25" />
+    <page file="L4_U2_14(3a)" delay="27" />
+    <page file="L4_U2_14(3b)" delay="34" />
+    <page file="L4_U2_14(3c)" delay="40" />
+    <page file="L4_U2_14(3d)" delay="42"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U2_15">
     <page file="L4_U2_15(0)" delay="0" />
