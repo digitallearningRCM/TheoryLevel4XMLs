@@ -10,9 +10,9 @@
   </lesson>
   <lesson type="standard" narrationFile="L4_U2_13">
     <page file="L4_U2_13(0)" delay="0" />
-    <page file="L4_U2_13(1)" delay="8" />
-    <page file="L4_U2_13(2)" delay="14" />
-    <page file="L4_U2_13(3)" delay="18"></page>
+    <page file="L4_U2_13(1)" delay="10" />
+    <page file="L4_U2_13(2)" delay="18" />
+    <page file="L4_U2_13(3)" delay="23"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U2_14">
     <page file="L4_U2_14(0)" delay="0" />
