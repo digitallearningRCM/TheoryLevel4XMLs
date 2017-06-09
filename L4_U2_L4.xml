@@ -31,10 +31,10 @@
     <page file="L4_U2_15(1b)" delay="9" />
     <page file="L4_U2_15(2a)" delay="13" />
     <page file="L4_U2_15(2b)" delay="19" />
-    <page file="L4_U2_15(3a)" delay="25" />
-    <page file="L4_U2_15(3b)" delay="30" />
-    <page file="L4_U2_15(3c)" delay="35" />
-    <page file="L4_U2_15(3d)" delay="42"></page>
+    <page file="L4_U2_15(3a)" delay="27" />
+    <page file="L4_U2_15(3b)" delay="33" />
+    <page file="L4_U2_15(3c)" delay="38" />
+    <page file="L4_U2_15(3d)" delay="44"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U2_16">
     <page file="L4_U2_16(0)" delay="0" />
