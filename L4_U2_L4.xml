@@ -43,9 +43,9 @@
   <lesson type="standard" narrationFile="L4_U2_17">
     <page file="L4_U2_17(0)" delay="0" />
     <page file="L4_U2_17(1a)" delay="17" />
-    <page file="L4_U2_17(1b)" delay="20" />
-    <page file="L4_U2_17(2)" delay="22" />
-    <page file="L4_U2_17(3a)" delay="36" />
-    <page file="L4_U2_17(3b)" delay="39"></page>
+    <page file="L4_U2_17(1b)" delay="23" />
+    <page file="L4_U2_17(2)" delay="26" />
+    <page file="L4_U2_17(3a)" delay="40" />
+    <page file="L4_U2_17(3b)" delay="46"></page>
   </lesson>
 </lessons>
