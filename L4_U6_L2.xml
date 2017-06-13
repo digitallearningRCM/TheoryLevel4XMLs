@@ -5,6 +5,12 @@
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_8">
     <page file="L4_U6_8" delay="0"></page>
+    <page file="L4_U6_8(1)" delay="23"></page>
+    <page file="L4_U6_8(2)" delay="49"></page>
+    <page file="L4_U6_8(3)" delay="1:13"></page>
+    <page file="L4_U6_8(4)" delay="73"></page>
+    <page file="L4_U6_8(5)" delay="110"></page>
+    <page file="L4_U6_8(6)" delay="127"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_9">
     <page file="L4_U6_9" delay="0"></page>
