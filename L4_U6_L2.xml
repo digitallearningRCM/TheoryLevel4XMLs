@@ -8,20 +8,19 @@
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_9">
     <page file="L4_U6_9" delay="0"></page>
-    <page file="L4_U6_9(1)" delay="0"></page>
-    <page file="L4_U6_9(2)" delay="10"></page>
-    <page file="L4_U6_9(3)" delay="45"></page>
-    <page file="L4_U6_9(4)" delay="97"></page>
-    <page file="L4_U6_9(5)" delay="139"></page>
-    <page file="L4_U6_9(6)" delay="191"></page>
-    <page file="L4_U6_9(7)" delay="229"></page>
-    <page file="L4_U6_9(8)" delay="290"></page>
-    <page file="L4_U6_9(9)" delay="360"></page>
-    <page file="L4_U6_9(10)" delay="423"></page>
-    <page file="L4_U6_9(11)" delay="472"></page>
-    <page file="L4_U6_9(12)" delay="519"></page>
-    <page file="L4_U6_9(13)" delay="551"></page>
-    <page file="L4_U6_9(14)" delay="628"></page>
+    <page file="L4_U6_9(1)" delay="10"></page>
+    <page file="L4_U6_9(2)" delay="45"></page>
+    <page file="L4_U6_9(3)" delay="97"></page>
+    <page file="L4_U6_9(4)" delay="139"></page>
+    <page file="L4_U6_9(5)" delay="191"></page>
+    <page file="L4_U6_9(6)" delay="229"></page>
+    <page file="L4_U6_9(7)" delay="290"></page>
+    <page file="L4_U6_9(8)" delay="360"></page>
+    <page file="L4_U6_9(9)" delay="423"></page>
+    <page file="L4_U6_9(10)" delay="472"></page>
+    <page file="L4_U6_9(11)" delay="519"></page>
+    <page file="L4_U6_9(12)" delay="551"></page>
+    <page file="L4_U6_9(13)" delay="628"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_10">
     <page file="L4_U6_10" delay="0"></page>
