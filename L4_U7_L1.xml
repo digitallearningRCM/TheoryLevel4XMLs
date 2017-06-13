@@ -50,7 +50,7 @@
   <card graphic="T4_U7_3(1)" definition="right hand"></card>
   <card graphic="T4_U7_3(2)" definition="left hand"></card>
   <card graphic="T4_U7_3(3)" definition="return to the original tempo"></card>
-  <card graphic="T4_U7_4(1)" definition="on a bowed string instrument, play the note while drawing the bow upward"></card>
+  <card graphic="T4_U7_4(1)" definition="down bow"></card>
   <card graphic="T4_U7_4(3)" definition="take a breath, and/or slight pause or lift"></card>
-  <card graphic="T4_U7_5(4)" definition="on a bowed string instrument, play the note while drawing the bow downward"></card>
+  <card graphic="T4_U7_5(4)" definition="up bow"></card>
 </cards>
