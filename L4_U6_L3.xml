@@ -5,6 +5,7 @@
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_12">
     <page file="L4_U6_12" delay="0"></page>
+    <page file="L4_U6_12(1)" delay="19"></page>
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_13">
     <page file="L4_U6_13" delay="0"></page>
@@ -14,5 +15,6 @@
   </lesson>
   <lesson type="standard" narrationFile="L4_U6_15">
     <page file="L4_U6_15" delay="0"></page>
+    <page file="L4_U6_15(1)" delay="20"></page>
   </lesson>
 </lessons>
